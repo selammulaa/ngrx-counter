@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
+## Let's cover what you did:
+
+  - Defined actions to express events.
+  - Defined a reducer function to manage the state of the counter.
+  - Registered the global state container that is available throughout your application.
+  - Injected the Store service to dispatch actions and select the current state of the counter.
+
+this is an exaple form [NgRx Site](https://ngrx.io/guide/store)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
