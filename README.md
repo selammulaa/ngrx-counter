@@ -9,6 +9,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   - Registered the global state container that is available throughout your application.
   - Injected the Store service to dispatch actions and select the current state of the counter.
 
+![state-management-lifecycle](https://user-images.githubusercontent.com/16508002/153903390-e6598665-065d-4993-b7e1-870916021b6d.png)
+
+
 this is an exaple form [NgRx Site](https://ngrx.io/guide/store)
 
 ## Development server
